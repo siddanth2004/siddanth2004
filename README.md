@@ -1,6 +1,6 @@
 <!-- Profile Header Image -->
 <p align="center">
-  <img src="https://photos.app.goo.gl/WhQVZMhANqtMMMyu9" alt="Siddanth's Banner" width="100%" />
+  <img src="https://photos.app.goo.gl/WhQVZMhANqtMMMyu9" alt="" width="100%" />
 </p>
 
 <h1 align="center">👋 Hi, I'm Siddanth Jain</h1>
