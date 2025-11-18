@@ -1,63 +1,60 @@
-<!-- Profile Header Image -->
-<p align="center">
-  <img src="https://photos.app.goo.gl/WhQVZMhANqtMMMyu9" alt="" width="100%" />
-</p>
+<img src="https://your-image-link-here" alt="" width="120" align="left" />
 
-<h1 align="center">👋 Hi, I'm Siddanth Jain</h1>
-<h3 align="center">💻 Software Developer | Backend & Frontend Developer</h3>
+# 👋 Hi, I'm **Siddanth**
 
----
+### 💻 Software Developer | Backend Specialist | Full-Stack Enthusiast  
 
-### 🚀 About Me
-I am a passionate **Software Developer** with strong expertise in both **backend** and **frontend** development.  
-I love building scalable applications, solving problems, and crafting clean, efficient code.
+I am a passionate **Software Developer** with strong expertise in **Backend Development** and solid knowledge of **Frontend technologies**. I enjoy building clean, scalable, and high-performance applications.
 
 ---
 
-### 🛠️ Tech Stack
+## 🚀 **Tech Stack**
 
-#### 🔧 Backend Development
-- **Python**
-- **PHP**
-- **Java**
+### 🔹 **Backend Development**
+- Python  
+- PHP  
+- Java  
+- Node.js  
 
-#### 🎨 Frontend Development
-- **HTML5**
-- **CSS3**
-- **JavaScript**
+### 🔹 **Frontend Development**
+- HTML  
+- CSS  
+- JavaScript  
 
-#### ⚙️ Other Skills
-- REST APIs  
-- MySQL / PostgreSQL  
+### 🔹 **Databases**
+- MySQL  
+- PostgreSQL  
+- MongoDB 
+
+### 🔹 **Tools & Technologies**
 - Git & GitHub  
-- Linux  
-- Responsive Web Design  
+- REST APIs  
+- Linux / Shell  
+- VS Code  
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SiddanthJain&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SiddanthJain&theme=tokyonight" />
-</p>
+## 🧩 **What I Do**
+✔ Develop backend systems, APIs, and automation tools  
+✔ Build dynamic and responsive web applications  
+✔ Handle server-side logic and database operations  
+✔ Debug, optimize, and enhance existing applications  
 
 ---
 
-### 📫 Connect With Me
-<p>
-<a href="https://www.linkedin.com/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-</p>
+## 🌟 **Projects**
+
+- 🔹 **Buss pass** – Providing E-bus pass for students, employee, ladies and old age people 
+- 🔹 **complaint registration** – online complaint registration 
+  
 
 ---
 
-### ⭐ Fun Fact
-I love creating real-world projects, exploring new technologies, and continuously improving my development skills!
+
+## 📫 **Connect With Me**
+- Email: **siddanthjain87@gmail.com**  
+- LinkedIn: **https://www.linkedin.com/in/siddanth-jain-77a641374?utm_source=share_via&utm_content=profile&utm_medium=member_android**  
 
 ---
 
-## 🌟 Thank you for visiting my profile!
+⭐ *Thanks for visiting! Feel free to check out my repositories and connect with me.*
